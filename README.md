@@ -1,4 +1,3 @@
-# blackrat.github.io
 <html lang="pt-BR"><head><style type="text/css">
 		@font-face {
 			font-family: eicons;
